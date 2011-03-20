@@ -8,4 +8,4 @@ Generation counter
 
 Hover/Drag region for states/status/info
 
-
+Speed control
