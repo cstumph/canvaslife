@@ -10,4 +10,4 @@ Hover/Drag region for states/status/info
 
 Speed control
 
-# of live cells counter
+\# of live cells counter
